@@ -11,7 +11,9 @@ package tugaspbo;
  */
 public class StadionAksi {
     public static void main(String[] args) {
-        
+        Stadion satu= new Stadion ();
+        Stadion dua= new Stadion ();
+        Stadion tiga= new Stadion ();
     }
     
 }
