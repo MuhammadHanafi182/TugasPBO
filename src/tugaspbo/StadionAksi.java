@@ -33,6 +33,9 @@ public class StadionAksi {
         tiga.negara="Indonesia";
         tiga.markas="Timnas Indonesia dan Persija Jakarta";
         
+        satu.cetakinfo();
+        dua.cetakinfo();
+        tiga.cetakinfo();
     }
     
 }
